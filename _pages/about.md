@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Linguistics at The Ohio State University, specializing in morphology and African languages. #My research focuses on [brief description of your work and its significance].
+I am a PhD candidate in Linguistics at The Ohio State University, specializing in morphology and African languages.
 
 My dissertation, titled _Topics in Kihehe Verbal Morphology_, describes the tense-aspect system of Kihehe (Bantu, Tanzania), investigates the erosion of a suffix, and examines how language use attitudes are developing in the area. I am advised by Professor Andrea Sims.
 
