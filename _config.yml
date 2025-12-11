@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maria Copot"
+title                    : "Martha Booker Johnson"
 title_separator          : "-"
-name                     : &name "Maria Copot"
-description              : &description "Postdoctoral Scholar at The Ohio State University"
-url                      : https://copotm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Martha Booker Johnson"
+description              : &description "Doctoral Candidate at The Ohio State University"
+url                      : https://marthabookerjohnson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "CopotM/CopotM.github.io"
+repository               : "marthabookerjohnson/mbjohnson.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maria Copot"
+  name             : "Martha Booker Johnson"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Scholar at the University of Surrey (Surrey Morphology Group)"
-  location         : "Guildford, UK"
+  bio              : "Doctoral Candidate at The Ohio State University, USA"
+  location         : "Columbus, Ohio, USA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=mkty-cMAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=QTuyhKkAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5182-9482"
+  orcid            : "https://orcid.org/0000-0002-0568-6297"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
