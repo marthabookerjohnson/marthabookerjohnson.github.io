@@ -18,5 +18,3 @@ Other things I am involved in:
 - compiling a dictionary of Kihehe
 - collaborating with Simon Msovela on negation in Kihehe
 - looking at change in Iringa Swahili with Hannah Gibson and Teresa Poeta
-
-The Publications and Talks tabs contain the files associated with contributions listed in the CV (not all CV entries have an associated file on this website. If you are interested in concrete outputs of any particular item on the CV which is not on the website, send me an email!)
