@@ -15,6 +15,6 @@ My dissertation, titled _Topics in Kihehe Verbal Morphology_, describes the tens
 You can find my CV [here](/cv/).
 
 Other things I am involved in:
-- compiling a dictionary of Kihehe
+- compiling a dictionary of Kihehe [https://livingdictionaries.app/kihehe/](/link/)
 - collaborating with Simon Msovela on negation in Kihehe
 - looking at change in Iringa Swahili with Hannah Gibson and Teresa Poeta
